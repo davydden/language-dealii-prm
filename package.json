@@ -1,0 +1,12 @@
+{
+  "name": "language-dealii-prm",
+  "version": "0.0.1",
+  "description": "Syntax highlighting for deal.II parameter files.",
+  "repository": "https://github.com/atom/language-dealii-prm",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
