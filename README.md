@@ -2,4 +2,4 @@
 
 Syntax highlighting for [deal.II](https://www.dealii.org) parameter files.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](https://cloud.githubusercontent.com/assets/8023934/11142136/6492aa66-89eb-11e5-9928-2035f185aea6.png)
