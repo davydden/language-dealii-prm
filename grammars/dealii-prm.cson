@@ -19,6 +19,16 @@
         'name': 'comment.line'
   }
   {
+    'match': '(?:\\s*)(include)(?:\\s*)(.+?)(?:\\s*)(#.*)?\\n'
+    'captures':
+      '1':
+        'name': 'keyword.modifier.dealii'
+      '2':
+        'name': 'variable.other'
+      '3':
+        'name': 'comment.line'
+  }
+  {
     'match': '(?:\\s*)(end)(?:\\s*)\\n'
     'name': 'keyword.modifier.dealii'
   }
